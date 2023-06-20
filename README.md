@@ -1,4 +1,4 @@
-#Building a Logistic Regression Model to Predict Wine Quality
+# Building a Logistic Regression Model to Predict Wine Quality
 
 **Author: Darren Bansil**
 
